@@ -13,3 +13,7 @@ What do the most successful people do before breakfast? I don't know. But this i
 #### While at night time, I want to do:
 
 * Read Rails 4 tutorial
+* Read my feed from Feedly
+* Read Test Management topics
+* Read Agile topics
+* Read Selenium
